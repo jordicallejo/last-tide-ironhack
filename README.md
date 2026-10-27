@@ -13,7 +13,7 @@ Proyecto final de **Data Analytics de Ironhack**. Analizamos registros históric
 - [Instrucciones del mapa y de la demostración](03_Videojuego/GUIA_MAPA_MUNDIAL.md)
 - [Código y documentación del análisis](04_Analisis_Datos/data-cleaning-pandas/README.md)
 - [Cuaderno del análisis](04_Analisis_Datos/data-cleaning-pandas/notebooks/shark_attacks.ipynb)
-- Cuadernos por hipótesis: [H1](04_Analisis_Datos/shark-attack/hipotesis_1.ipynb) · [H2](04_Analisis_Datos/shark-attack/hipotesis_2.ipynb) · [H3](04_Analisis_Datos/hipotesis_3/hipotesis_3.ipynb) · [H4](04_Analisis_Datos/shark-attack/hipotesis_4.ipynb)
+- Cuadernos por hipótesis: [H1](04_Analisis_Datos/shark-attack/hipotesis_1.ipynb) · [H2](04_Analisis_Datos/shark-attack/hipotesis_2.ipynb) · [H3](04_Analisis_Datos/shark-attack/hipotesis_3.ipynb) · [H4](04_Analisis_Datos/shark-attack/hipotesis_4.ipynb)
 - [Informe de pruebas del mapa mundial](05_Verificacion/VERIFICACION_MAPA_MUNDIAL.md)
 
 ![Mapa de la travesía](03_Videojuego/LAST_TIDE_Mapa_Mundial.jpg)
@@ -33,10 +33,10 @@ Proyecto final de **Data Analytics de Ironhack**. Analizamos registros históric
 | --- | --- | --- | --- |
 | H1: actividad | Adriana | [`hipotesis_1.ipynb`](04_Analisis_Datos/shark-attack/hipotesis_1.ipynb) | `GSAF5_limpio.xls` |
 | H2: ubicación | Edvaldo | [`hipotesis_2.ipynb`](04_Analisis_Datos/shark-attack/hipotesis_2.ipynb) | `GSAF_limpio_local.csv` |
-| H3: desenlace | Jordi | [`hipotesis_3.ipynb`](04_Analisis_Datos/hipotesis_3/hipotesis_3.ipynb) | `GSAF5.xls` (original) |
+| H3: desenlace | Jordi | [`hipotesis_3.ipynb`](04_Analisis_Datos/shark-attack/hipotesis_3.ipynb) | `GSAF5.xls` (original) |
 | H4: especies | Alejandro | [`hipotesis_4.ipynb`](04_Analisis_Datos/shark-attack/hipotesis_4.ipynb) | `GSAF5_limpio.xls` |
 
-La carpeta `04_Analisis_Datos/shark-attack/` reproduce el repositorio de trabajo del equipo ([carmonaa0116/shark-attack](https://github.com/carmonaa0116/shark-attack)): limpieza por columnas, limpieza unificada y exportación de `GSAF5_limpio.xls`. `GSAF_limpio_local.csv` es esa misma tabla limpia exportada a CSV; reproduce la tabla resumen de H2. Cada cuaderno se ejecuta desde su propia carpeta.
+La carpeta `04_Analisis_Datos/shark-attack/` reproduce el repositorio de trabajo del equipo ([carmonaa0116/shark-attack](https://github.com/carmonaa0116/shark-attack)): limpieza por columnas, limpieza unificada y exportación de `GSAF5_limpio.xls`. `GSAF_limpio_local.csv` es esa misma tabla limpia exportada a CSV; reproduce la tabla resumen de H2. Los cuatro cuadernos están en la misma carpeta que sus datos y se ejecutan desde ella. H3 usa el Excel original sin limpiar a propósito: aplica sus propios criterios, más conservadores, para el desenlace y la especie.
 
 El análisis es descriptivo. Los incidentes registrados **no miden exposición ni riesgo individual**, y las asociaciones no prueban causalidad. Las bases y las reglas de clasificación no son idénticas en todos los análisis del equipo; sus límites están documentados en `05_Verificacion`.
 
