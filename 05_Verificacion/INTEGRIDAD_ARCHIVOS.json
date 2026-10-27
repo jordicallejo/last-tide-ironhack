@@ -1,0 +1,147 @@
+[
+  {
+    "archivo": "00_LEEME_PRIMERO.txt",
+    "estado": "actualizado para repositorio de entrega",
+    "sha256": "a1556b016922500f994fae6636d8073bd1621dd6f080f31b837b4d393c80f2e3"
+  },
+  {
+    "archivo": "00_CONTROL_VISUAL_Y_ADVERTENCIAS.txt",
+    "estado": "actualizado",
+    "sha256": "30aa078b489935dd0bfab13a43daa1337ee1ffb7b14f7d06581b1e4056f4fa8a"
+  },
+  {
+    "archivo": "03_Videojuego/LAST_TIDE_Juego.html",
+    "estado": "actualizado",
+    "sha256": "c6b24abdf77d0c16ea6e0d8634857e5786b17be8db08c2f0a51ed6fc65a3a6f1"
+  },
+  {
+    "archivo": "03_Videojuego/LAST_TIDE_Concepto_Narrativo.pdf",
+    "estado": "idéntico al original",
+    "sha256": "d235ba5b549e819fa6f475eed401531d2cb598dd643a4d05d7b7b9592c10ede6"
+  },
+  {
+    "archivo": "02_Guiones/LAST_TIDE_Guion_Demostracion_2_Minutos.pdf",
+    "estado": "idéntico al original",
+    "sha256": "54bbacec519aceba60fdfeea74cf2240c59d98a5402926051536562f07d767fe"
+  },
+  {
+    "archivo": "02_Guiones/LAST_TIDE_Guion_Exposicion_3_Minutos.pdf",
+    "estado": "actualizado",
+    "sha256": "661981d67c0befc91735253322d994fc0b3b06c86711c5f56843d231da92eed3"
+  },
+  {
+    "archivo": "05_Verificacion/LAST_TIDE_Comparacion_Metodologica.md",
+    "estado": "idéntico al original",
+    "sha256": "17559b6cf1df1f69e6df2ee68ef9bd0b6de766dfa03439f677f6c0fd0d78e293"
+  },
+  {
+    "archivo": "05_Verificacion/LAST_TIDE_Informe_Verificacion.pdf",
+    "estado": "idéntico al original",
+    "sha256": "964b92cc8d2b7fa19339c62a7172828809940d2aae86b0fcb38ebbdd76bc1d4d"
+  },
+  {
+    "archivo": "05_Verificacion/ULTIMA_REVISION_REPARTO.md",
+    "estado": "idéntico al original",
+    "sha256": "6f3c829b82aa0d70da74dd5076961d709d7e5f54571e6f2b7fd8b299bda87497"
+  },
+  {
+    "archivo": "04_Analisis_Datos/data-cleaning-pandas/requirements.txt",
+    "estado": "idéntico al original",
+    "sha256": "60348ba203f58ead702e2ec54d6f6d43e89dbdd90e1b6f02d778e74f27e7e591"
+  },
+  {
+    "archivo": "04_Analisis_Datos/data-cleaning-pandas/.gitignore",
+    "estado": "actualizado para repositorio de entrega",
+    "sha256": "b3e99612de235e5f54074e54f29f05455a5b42102c771d851f6850fd1bbbb34e"
+  },
+  {
+    "archivo": "04_Analisis_Datos/data-cleaning-pandas/test_pipeline.py",
+    "estado": "idéntico al original",
+    "sha256": "87b5b6e31813d68eee8c25b19e5f1c077125afd567a348837082efa5d2e73303"
+  },
+  {
+    "archivo": "04_Analisis_Datos/data-cleaning-pandas/run_analysis.py",
+    "estado": "idéntico al original",
+    "sha256": "ca3c57150b0ea265b119a810e3d6e92245cc97bd5a45ad6c5f89bfc07a9109f7"
+  },
+  {
+    "archivo": "04_Analisis_Datos/data-cleaning-pandas/README.md",
+    "estado": "idéntico al original",
+    "sha256": "396bd64e2a88d59d4209cf7102c4e734299f1dc47ce42e6110df992e84d8e69f"
+  },
+  {
+    "archivo": "04_Analisis_Datos/data-cleaning-pandas/outputs/h2_geografia.csv",
+    "estado": "idéntico al original",
+    "sha256": "15321cb12157f297a44a9b11d21e3ffa8cacc162b0bd2aac0dd65a49be186745"
+  },
+  {
+    "archivo": "04_Analisis_Datos/data-cleaning-pandas/outputs/h3_epocas.csv",
+    "estado": "idéntico al original",
+    "sha256": "39db6a0e8e1e53f7e623779bad93c531c398733930e61cb59dacac1d0dfb66bc"
+  },
+  {
+    "archivo": "04_Analisis_Datos/data-cleaning-pandas/outputs/h4_cobertura_por_des_enlace.csv",
+    "estado": "idéntico al original",
+    "sha256": "4f84d3419cee7d634e28b107ba90d6ca7e49858caf25243e0e3405b47a111584"
+  },
+  {
+    "archivo": "04_Analisis_Datos/data-cleaning-pandas/outputs/resumen.json",
+    "estado": "idéntico al original",
+    "sha256": "ee7f03d24b8ec5916932ff21e15b2fbd61aa3996487770ce92c9a12079483fa3"
+  },
+  {
+    "archivo": "04_Analisis_Datos/data-cleaning-pandas/outputs/auditoria_limpieza.csv",
+    "estado": "idéntico al original",
+    "sha256": "1f5f31ab9dd26c0b5f3cffe2b15f9a6961282e8e9e7b2633ee08c205f3159ac0"
+  },
+  {
+    "archivo": "04_Analisis_Datos/data-cleaning-pandas/outputs/h3_des_enlace.csv",
+    "estado": "idéntico al original",
+    "sha256": "b36071534ffbd31ec17be0d3e856d3d10d2950bfae00e21489b6e97d5a99eb37"
+  },
+  {
+    "archivo": "04_Analisis_Datos/data-cleaning-pandas/outputs/h1_actividades.csv",
+    "estado": "idéntico al original",
+    "sha256": "4a6bd26881632b4ab1215214a1def5686f28d2ee9cd89dab7ae97db6d8c68724"
+  },
+  {
+    "archivo": "04_Analisis_Datos/data-cleaning-pandas/outputs/h4_especies.csv",
+    "estado": "idéntico al original",
+    "sha256": "b3d036fa6831679d77504e08ff9d0fe24edd571a199afba44c301587e25e6ff4"
+  },
+  {
+    "archivo": "04_Analisis_Datos/data-cleaning-pandas/notebooks/shark_attacks.ipynb",
+    "estado": "idéntico al original",
+    "sha256": "a874ff4903a00380ad72a5effa9731b4cef302877fa1a1ba3d9c65f5efe2b522"
+  },
+  {
+    "archivo": "04_Analisis_Datos/data-cleaning-pandas/src/analysis.py",
+    "estado": "idéntico al original",
+    "sha256": "b72284d5b94f6f93bcc0a7113bcfd54d1ee6620ca4e4cdb61623f85b27096914"
+  },
+  {
+    "archivo": "04_Analisis_Datos/data-cleaning-pandas/src/cleaning.py",
+    "estado": "idéntico al original",
+    "sha256": "32049742cb498e9b7e8a5aba290570a0ab0e3632fc5fc109df144cf356856ea6"
+  },
+  {
+    "archivo": "04_Analisis_Datos/data-cleaning-pandas/data/.gitkeep",
+    "estado": "idéntico al original",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "archivo": "04_Analisis_Datos/data-cleaning-pandas/data/GSAF5.xlsx",
+    "estado": "idéntico al original",
+    "sha256": "849c924a001d4c0408caabcb374add415021c36033d130d7ac1bc770b40fb0f5"
+  },
+  {
+    "archivo": "01_Presentacion/LAST_TIDE_Presentacion_Final_9_Diapositivas.pdf",
+    "estado": "idéntico al original",
+    "sha256": "dd23c2a0dd0f540a76a9d97cc44476abb2cad3d9c30c671167926fcc7b89dfbf"
+  },
+  {
+    "archivo": "01_Presentacion/LAST_TIDE_Presentacion_Final_9_Diapositivas.pptx",
+    "estado": "idéntico al original",
+    "sha256": "bc83e7e61516d7766f68ff6132ca0bfc1dfb450b310d9e0867a94f81c1abe888"
+  }
+]

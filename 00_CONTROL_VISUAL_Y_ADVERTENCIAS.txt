@@ -1,0 +1,18 @@
+ACTUALIZACIÓN 27/10/2026: el HTML incluye ahora mapa mundial y cuatro niveles.
+Consultar GUIA_MAPA_MUNDIAL.md y VERIFICACION_MAPA_MUNDIAL.md.
+El material visual PDF/PPTX permanece idéntico al ZIP recibido; los guiones
+anteriores no sustituyen la guía actual de la demo.
+
+--- NOTAS DEL PAQUETE ORIGINAL ---
+
+LAST TIDE — CONTROL DE VERSION VISUAL (26/10/2026)
+
+Esta entrega conserva EXACTAMENTE el PDF visual proporcionado por el equipo:
+01_Presentacion/LAST_TIDE_Presentacion_Visual_Original.pdf
+SHA256 del PDF original: 98d6241985318fda6860a36ab7882a62875323f870eeb342fa290640363752e0
+
+El PowerPoint homónimo contiene una imagen de alta resolución por diapositiva derivada directamente de dicho PDF. VISUALMENTE IDENTICO, PERO SUS TEXTOS NO SON EDITABLES.
+
+ATENCION METODOLOGICA: la presentación visual original y el código Python empaquetado utilizan reglas de agrupación distintas. Por ello, algunas cifras de H1/H3/H4 (incluida la V de Cramér y especies identificadas) no coinciden. NO se debe afirmar que todas las estadísticas de esta presentación son reproducibles desde este código hasta reconciliar la clasificación con el equipo. El PDF visual se ha preservado por petición del usuario, NO se ha modificado para ocultar esas diferencias.
+
+El PDF original no es una exportación con texto vectorial; está compuesto por imágenes.

@@ -1,0 +1,50 @@
+GUION ACTUALIZADO POR DIAPOSITIVA - 27/10/2026
+Leer 02_Guiones/LAST_TIDE_Guion_Exposicion_3_Minutos.pdf: contiene nueve
+intervenciones separadas, texto oral, ponente, tiempos e indicaciones de cambio.
+
+ACTUALIZACIÓN · MAPA MUNDIAL · 27/10/2026
+
+Abrir 00_ABRIR_JUEGO.html después de extraer el ZIP.
+La demo ahora tiene 4 paradas: Florida, Bahamas, Sudáfrica y Australia.
+Cada una contiene 3 objetivos y una pieza que desbloquea la siguiente.
+Instrucciones actuales: 03_Videojuego/GUIA_MAPA_MUNDIAL.md.
+Pruebas: 05_Verificacion/VERIFICACION_MAPA_MUNDIAL.md.
+
+Se conservan sin modificaciones la presentación PDF/PPTX, imágenes y análisis.
+El guion de demostración PDF y las referencias originales pueden describir la
+demo anterior de 3 señales; para demostrar el juego prevalece la guía del mapa.
+El guion de exposición sí está actualizado, separado en las nueve diapositivas.
+No se ha publicado el proyecto ni subido a GitHub.
+
+--- INFORMACIÓN CONSERVADA DEL PAQUETE ORIGINAL ---
+
+LAST TIDE · EL ÚLTIMO HUMANO | ENTREGA ACADÉMICA
+
+ORDEN DE USO
+01_Presentacion: PDF visual definitivo y PPTX para importar a Google Slides.
+02_Guiones: lectura por ponente (180 s) y demostración técnica (120 s).
+03_Videojuego: prototipo HTML y concepto narrativo. Abrir el HTML con navegador.
+04_Analisis_Datos: código, datos, notebook y resultados existentes.
+05_Verificacion: informe de limitaciones y comparaciones metodológicas.
+Las referencias internas del paquete de trabajo se han excluido del repositorio.
+
+REPARTO FINAL
+Edvaldo 1 (18 s); Jose 2-3 (38 s); Alejandro 4-5 (38 s);
+Jordi 6-8 (56 s); Adriana 9 (30 s).
+
+DECISIÓN VISUAL
+Se conserva la presentación cinematográfica aprobada. ÚNICAMENTE se han reajustado las
+páginas 8 (identificación de ponente) y 9 (resumen de las misiones y storytelling).
+La diapositiva 8 contiene los obstáculos que explica Jordi.
+
+ATENCIÓN: la presentación original y el código usan en algunas hipótesis distintas
+reglas de clasificación; NO afirmar que todas las cifras se han reproducido con esta
+implementación sin revisar el informe de verificación. El prototipo HTML es conceptual
+y no implementa todos los sistemas de supervivencia propuestos.
+
+ANTES DE LA ENTREGA
+- Importar el PPTX a Google Slides; revisar texto, visuales y permiso del enlace.
+- Confirmar apellidos pendientes de Edvaldo y Alejandro (no se inventan).
+- Ensayar 180 segundos y demostrar el notebook en 120 segundos.
+- Comprobar visualmente el videojuego en navegador con el ordenador de la exposición.
+- Entregar el repositorio individual que exija Ironhack.

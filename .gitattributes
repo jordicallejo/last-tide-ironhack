@@ -1,0 +1,8 @@
+# Preservar bytes de los entregables y sus huellas de integridad.
+* -text
+*.pdf binary
+*.pptx binary
+*.xlsx binary
+*.xls binary
+*.jpg binary
+*.png binary

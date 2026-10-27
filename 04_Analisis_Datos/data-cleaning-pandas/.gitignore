@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+data/*.xls
+data/*.xlsx
+data/*.csv
+!data/.gitkeep
+.DS_Store
+
+# Archivo público de referencia incluido para reproducir la entrega.
+!data/GSAF5.xlsx

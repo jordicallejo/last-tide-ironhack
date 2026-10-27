@@ -1,0 +1,13 @@
+{
+  "n_original": 7125,
+  "invalid": 552,
+  "outcome_known": 6482,
+  "fatal": {
+    "N": 4986,
+    "Y": 1496,
+    "UNKNOWN": 643
+  },
+  "cramers_v_actividad_des_enlace": 0.331,
+  "identified_species_filtered": 1910,
+  "ruleset": "Reglas reproducibles en src/cleaning.py; NO idénticas necesariamente a las categorías de diapositivas"
+}
